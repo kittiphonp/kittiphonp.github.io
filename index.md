@@ -1,38 +1,38 @@
 **Kittiphon Phalakarn** is going to study Ph.D. in electrical and computer engineering at the University of Waterloo under the supervision of [Prof. Anwar Hasan](https://ece.uwaterloo.ca/~ahasan/), starting Fall 2019.
 
-## Interest
+### Interest
 
 - Cryptography
 - Computer arithmetic
 - Algorithms
 - Theory of computation
 
-## Education
+### Education
 
 - B.Eng. in Computer Engineering, Chulalongkorn University (2017)
 - M.Eng. in Computer Engineering, Chulalongkorn University (2019) under the supervision of Asst. Prof. Athasit Surarerks
 
-## Experience
+### Experience
 
-### Internship
+#### Internship
 
 - Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp/), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (Jun-Jul 2016)
 - Six-month internship at [Hasuo Laboratory](http://group-mmm.org/), National Institute of Informatics (Mar-Aug 2019)
 
-### Teaching
+#### Teaching
 
 - TA in 2110101 Computer Programming: 2014/2, 2016/1, 2016/2, 2016/3, 2017/1, 2017/2, 2017/3
 - TA in 2110202 Discrete Mathematics: 2018/1
 
-## Publication
+### Publication
 
-### Articles
+#### Articles
 
 - Kittiphon Phalakarn, Kittiphop Phalakarn, and V. Suppakitpaisarn. "Optimal Represen-tation for Right-to-Left Parallel Scalar and Multi-Scalar Point Multiplication," International Journal of Networking and Computing (IJNC), vol. 8, no. 2, Jul 2018, pp. 166-185.
 - K. Phalakarn, and A. Surarerks. "A Matrix Decomposition Method for Odd-Type Gaussian Normal Basis Multiplication," Proc. of the 3rd International Conference on Computer and Communication Systems (ICCCS 2018), pp. 99-103.
 - Kittiphon Phalakarn, Kittiphop Phalakarn, and V. Suppakitpaisarn. "Optimal Represen-tation for Right-to-Left Parallel Scalar Point Multiplication," Proc. of the 4th International Workshop on Information and Communication Security (WICS 2017), pp. 482-488.
 - K. Phalakarn, and A. Surarerks. "An Analysis of Computer Programs using Lambda Calculus," Proc. of the 7th International Workshop on Computer Science and Engineering (WCSE 2017), pp. 214-218. (with best oral presentation award)
 
-### Books
+#### Books
 
 - Kittiphon Phalakarn, Kittiphop Phalakarn, S. Prasitjutrakul, and S. Sinthupinyo. "Python 101," Textbook for Computer Programming course (in Thai), Aug 2017.
