@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+**Kittiphon Phalakarn** is going to study Ph.D. in electrical and computer engineering at the University of Waterloo under the supervision of [Prof. Anwar Hasan](https://ece.uwaterloo.ca/~ahasan/), starting Fall 2019.
 
-You can use the [editor on GitHub](https://github.com/kittyphon/kittyphon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Interest
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Cryptography
+- Computer arithmetic
+- Algorithms
+- Theory of computation
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- B.Eng. in Computer Engineering, Chulalongkorn University (2017)
+- M.Eng. in Computer Engineering, Chulalongkorn University (2019) under the supervision of Asst. Prof. Athasit Surarerks
 
-```markdown
-Syntax highlighted code block
+## Experience
 
-# Header 1
-## Header 2
-### Header 3
+### Internship
 
-- Bulleted
-- List
+- Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp/), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (Jun-Jul 2016)
+- Six-month internship at [Hasuo Laboratory](http://group-mmm.org/), National Institute of Informatics (Mar-Aug 2019)
 
-1. Numbered
-2. List
+### Teaching
 
-**Bold** and _Italic_ and `Code` text
+- TA in 2110101 Computer Programming: 2014/2, 2016/1, 2016/2, 2016/3, 2017/1, 2017/2, 2017/3
+- TA in 2110202 Discrete Mathematics: 2018/1
 
-[Link](url) and ![Image](src)
-```
+## Publication
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Articles
 
-### Jekyll Themes
+- Kittiphon Phalakarn, Kittiphop Phalakarn, and V. Suppakitpaisarn. "Optimal Represen-tation for Right-to-Left Parallel Scalar and Multi-Scalar Point Multiplication," International Journal of Networking and Computing (IJNC), vol. 8, no. 2, Jul 2018, pp. 166-185.
+- K. Phalakarn, and A. Surarerks. "A Matrix Decomposition Method for Odd-Type Gaussian Normal Basis Multiplication," Proc. of the 3rd International Conference on Computer and Communication Systems (ICCCS 2018), pp. 99-103.
+- Kittiphon Phalakarn, Kittiphop Phalakarn, and V. Suppakitpaisarn. "Optimal Represen-tation for Right-to-Left Parallel Scalar Point Multiplication," Proc. of the 4th International Workshop on Information and Communication Security (WICS 2017), pp. 482-488.
+- K. Phalakarn, and A. Surarerks. "An Analysis of Computer Programs using Lambda Calculus," Proc. of the 7th International Workshop on Computer Science and Engineering (WCSE 2017), pp. 214-218. (with best oral presentation award)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kittyphon/kittyphon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Books
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Kittiphon Phalakarn, Kittiphop Phalakarn, S. Prasitjutrakul, and S. Sinthupinyo. "Python 101," Textbook for Computer Programming course (in Thai), Aug 2017.
