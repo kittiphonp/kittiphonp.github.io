@@ -17,7 +17,7 @@
 #### Internship
 
 - Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp/), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (Jun-Jul 2016)
-- Six-month internship at [Hasuo Laboratory](http://group-mmm.org/), National Institute of Informatics (Mar-Aug 2019)
+- Six-month internship at [ERATO Metamathematics for Systems Design Project](https://group-mmm.org/eratommsd/), National Institute of Informatics (Mar-Aug 2019)
 
 #### Teaching
 
