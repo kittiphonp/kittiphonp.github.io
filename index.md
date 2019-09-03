@@ -1,4 +1,4 @@
-**Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is going to study Ph.D. in electrical and computer engineering at the University of Waterloo under the supervision of [Prof. Anwar Hasan](https://ece.uwaterloo.ca/~ahasan/), starting Fall 2019.
+**Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is a Ph.D. student in electrical and computer engineering at the University of Waterloo under the supervision of [Prof. Anwar Hasan](https://ece.uwaterloo.ca/~ahasan/).
 
 ### Interests
 
@@ -9,8 +9,8 @@
 
 ### Education
 
-- B.Eng. in Computer Engineering, Chulalongkorn University (2017)
 - M.Eng. in Computer Engineering, Chulalongkorn University (2019) under the supervision of [Asst. Prof. Athasit Surarerks](https://www.cp.eng.chula.ac.th/~athasit/)
+- B.Eng. in Computer Engineering, Chulalongkorn University (2017)
 
 ### Experience
 
