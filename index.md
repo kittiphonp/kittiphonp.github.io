@@ -1,5 +1,7 @@
 **Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is a Ph.D. student in Electrical and Computer Engineering (ECE) at the University of Waterloo under the supervision of [Prof. Anwar Hasan](https://ece.uwaterloo.ca/~ahasan/).
 
+* * *
+
 ### Interests
 
 - Cryptography
@@ -7,10 +9,14 @@
 - Algorithms
 - Theory of computation
 
+* * *
+
 ### Education
 
 - M.Eng. in Computer Engineering, Chulalongkorn University (2019) under the supervision of [Asst. Prof. Athasit Surarerks](https://www.cp.eng.chula.ac.th/~athasit/)
 - B.Eng. in Computer Engineering, Chulalongkorn University (2017)
+
+* * *
 
 ### Experience
 
@@ -25,6 +31,8 @@
 - TA in 2110202 Discrete Structures and Computability (Discrete Mathematics), Chulalongkorn University: 2018/1
 - TA in 2110201 Computer Engineering Mathematics (Linear Algebra), Chulalongkorn University: 2018/2
 
+* * *
+
 ### Publication
 
 #### Articles
@@ -37,6 +45,8 @@
 #### Books
 
 - Kittiphon Phalakarn, Kittiphop Phalakarn, S. Prasitjutrakul, and S. Sinthupinyo. "[Python 101](https://www.cp.eng.chula.ac.th/books/python101)," Textbook for 2110101 Computer Programming course (in Thai), Aug 2017.
+
+* * *
 
 ### Contact
 
