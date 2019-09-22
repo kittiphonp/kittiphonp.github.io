@@ -43,3 +43,4 @@
 - Office: E7 5414, University of Waterloo
 - E-mail: kphalakarn [at] uwaterloo [dot] ca
 - E-mail: kittiphon [dot] phalakarn [at] gmail [dot] com
+- [Google Scholar](https://scholar.google.com/citations?user=-vdzW3kAAAAJ)
