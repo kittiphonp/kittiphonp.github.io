@@ -1,4 +1,12 @@
-**Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is a Ph.D. student in Electrical and Computer Engineering (ECE) at the University of Waterloo under the supervision of [Prof. Anwar Hasan](https://ece.uwaterloo.ca/~ahasan/).
+**Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is a Ph.D. student in Electrical and Computer Engineering (ECE) at the University of Waterloo under the supervision of [Prof. Anwar Hasan](https://uwaterloo.ca/electrical-computer-engineering/profile/ahasan).
+
+* * *
+
+### Contact
+
+- Office: E7 5414, University of Waterloo
+- E-mail: kphalakarn [at] uwaterloo [dot] ca
+- E-mail: kittiphon [dot] phalakarn [at] gmail [dot] com
 
 * * *
 
@@ -13,8 +21,9 @@
 
 ### Education
 
-- M.Eng. in Computer Engineering, Chulalongkorn University (2019) under the supervision of [Asst. Prof. Athasit Surarerks](https://www.cp.eng.chula.ac.th/~athasit/)
-- B.Eng. in Computer Engineering, Chulalongkorn University (2017)
+- Ph.D. student in Electrical and Computer Engineering, University of Waterloo (2019-current) under the supervision of [Prof. Anwar Hasan](https://uwaterloo.ca/electrical-computer-engineering/profile/ahasan)
+- M.Eng. in Computer Engineering, Chulalongkorn University (2017-2019) under the supervision of [Asst. Prof. Athasit Surarerks](https://www.cp.eng.chula.ac.th/~athasit/)
+- B.Eng. in Computer Engineering, Chulalongkorn University (2013-2017)
 
 * * *
 
@@ -22,18 +31,21 @@
 
 #### Internship
 
-- Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp/), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (Jun-Jul 2016)
 - Six-month internship at [ERATO Metamathematics for Systems Design Project](https://group-mmm.org/eratommsd/), National Institute of Informatics (Mar-Aug 2019)
+- Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp/), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (Jun-Jul 2016)
 
 #### Teaching
 
-- TA in 2110101 Computer Programming, Chulalongkorn University: 2014/2, 2016/1, 2016/2, 2016/3, 2017/1, 2017/2, 2017/3
-- TA in 2110202 Discrete Structures and Computability (Discrete Mathematics), Chulalongkorn University: 2018/1
 - TA in 2110201 Computer Engineering Mathematics (Linear Algebra), Chulalongkorn University: 2018/2
+- TA in 2110202 Discrete Structures and Computability (Discrete Mathematics), Chulalongkorn University: 2018/1
+- TA in 2110101 Computer Programming, Chulalongkorn University: 2014/2, 2016/1, 2016/2, 2016/3, 2017/1, 2017/2, 2017/3
 
 * * *
 
 ### Publication
+
+- [Google Scholar](https://scholar.google.com/citations?user=-vdzW3kAAAAJ)
+- [dblp](https://dblp.uni-trier.de/pers/hd/p/Phalakarn:Kittiphon)
 
 #### Articles
 
@@ -45,12 +57,3 @@
 #### Books
 
 - Kittiphon Phalakarn, Kittiphop Phalakarn, S. Prasitjutrakul, and S. Sinthupinyo. "[Python 101](https://www.cp.eng.chula.ac.th/books/python101)," Textbook for 2110101 Computer Programming course (in Thai), Aug 2017.
-
-* * *
-
-### Contact
-
-- Office: E7 5414, University of Waterloo
-- E-mail: kphalakarn [at] uwaterloo [dot] ca
-- E-mail: kittiphon [dot] phalakarn [at] gmail [dot] com
-- [Google Scholar](https://scholar.google.com/citations?user=-vdzW3kAAAAJ)
