@@ -36,6 +36,7 @@
 
 #### Teaching
 
+- TA in ECE 124 Digital Circuits and Systems, University of Waterloo: Spring 20
 - TA in 2110201 Computer Engineering Mathematics (Linear Algebra), Chulalongkorn University: 2018/2
 - TA in 2110202 Discrete Structures and Computability (Discrete Mathematics), Chulalongkorn University: 2018/1
 - TA in 2110101 Computer Programming, Chulalongkorn University: 2014/2, 2016/1, 2016/2, 2016/3, 2017/1, 2017/2, 2017/3
