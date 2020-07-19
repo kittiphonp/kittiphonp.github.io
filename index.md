@@ -36,6 +36,7 @@
 
 #### Teaching
 
+- TA in ECE 606 Algorithm Design and Analysis, University of Waterloo: Fall 2020
 - TA in ECE 124 Digital Circuits and Systems, University of Waterloo: Spring 2020
 - TA in 2110201 Computer Engineering Mathematics (Linear Algebra), Chulalongkorn University: 2018/2
 - TA in 2110202 Discrete Structures and Computability (Discrete Mathematics), Chulalongkorn University: 2018/1
@@ -50,6 +51,7 @@
 
 #### Articles
 
+- K. Phalakarn, T. Takisaka, T. Haas, and I. Hasuo. "[Widest Paths and Global Propagation in Bounded Value Iteration for Stochastic Games](https://link.springer.com/content/pdf/10.1007%2F978-3-030-53291-8_19.pdf)," Proc. of the International Conference on Computer Aided Verification (CAV 2020), pp. 349-371.
 - Kittiphon Phalakarn, Kittiphop Phalakarn, and V. Suppakitpaisarn. "[Optimal Representation for Right-to-Left Parallel Scalar and Multi-Scalar Point Multiplication](http://www.ijnc.org/index.php/ijnc/article/view/179/177)," International Journal of Networking and Computing (IJNC), vol. 8, no. 2, Jul 2018, pp. 166-185.
 - K. Phalakarn, and A. Surarerks. "[A Matrix Decomposition Method for Odd-Type Gaussian Normal Basis Multiplication](https://ieeexplore.ieee.org/abstract/document/8463251)," Proc. of the 3rd International Conference on Computer and Communication Systems (ICCCS 2018), pp. 99-103.
 - Kittiphon Phalakarn, Kittiphop Phalakarn, and V. Suppakitpaisarn. "[Optimal Representation for Right-to-Left Parallel Scalar Point Multiplication](https://ieeexplore.ieee.org/document/8345477)," Proc. of the 4th International Workshop on Information and Communication Security (WICS 2017), pp. 482-488.
