@@ -64,4 +64,4 @@
 
 #### Project
 
-- [CO 687 - Applied Cryptography term project](https://docs.google.com/viewer?url=https://github.com/kittiphonp/kittiphonp.github.io/raw/master/CO%20687_Project_Kittiphon%20Phalakarn.pdf)
+- [CO 687 - Applied Cryptography term project](https://docs.google.com/viewer?url=https://github.com/kittiphonp/kittiphonp.github.io/raw/master/CO%20687_Project_Kittiphon%20Phalakarn_v2.pdf)
