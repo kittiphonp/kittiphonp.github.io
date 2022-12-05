@@ -12,10 +12,10 @@
 
 ### Interests
 
-- **Cryptography**: post-quantum cryptography, elliptic-curve cryptography, efficient implementations
-- **Computer arithmetic**: number representation, residue number system
-- **Algorithms**: graph algorithms, approximation algorithms
-- **Theory of computation**: computational complexity
+- **Cryptography:** post-quantum cryptography, elliptic-curve cryptography, efficient implementations
+- **Computer arithmetic:** number representation, residue number system
+- **Algorithms:** graph algorithms, approximation algorithms
+- **Theory of computation:** computational complexity
 
 * * *
 
