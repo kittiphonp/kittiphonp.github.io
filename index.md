@@ -23,7 +23,7 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 ### Education
 
 - Ph.D. Candidate, Electrical and Computer Engineering, University of Waterloo (2019-current) under the supervision of [Prof. Anwar Hasan](https://uwaterloo.ca/electrical-computer-engineering/profile/ahasan)
-- M.Eng., Computer Engineering, Chulalongkorn University (2017-2019) under the supervision of [Asst. Prof. Athasit Surarerks](https://www.cp.eng.chula.ac.th/~athasit/)
+- M.Eng., Computer Engineering, Chulalongkorn University (2017-2019) under the supervision of [Assoc. Prof. Athasit Surarerks](https://www.cp.eng.chula.ac.th/~athasit/)
 - B.Eng., Computer Engineering, Chulalongkorn University (2013-2017)
 
 * * *
