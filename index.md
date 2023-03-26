@@ -60,7 +60,7 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 - K. Phalakarn, and A. Surarerks. "[A Matrix Decomposition Method for Odd-Type Gaussian Normal Basis Multiplication](https://ieeexplore.ieee.org/document/8463251)," Proc. of the 3rd International Conference on Computer and Communication Systems (ICCCS 2018), pp. 99-103.
 - Kittiphon Phalakarn, Kittiphop Phalakarn, and V. Suppakitpaisarn. "[Optimal Representation for Right-to-Left Parallel Scalar Point Multiplication](https://ieeexplore.ieee.org/document/8345477)," Proc. of the 4th International Workshop on Information and Communication Security (WICS 2017), pp. 482-488.
 - K. Phalakarn, and A. Surarerks. "[An Analysis of Computer Programs using Lambda Calculus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85027859862&origin=resultslist)," Proc. of the 7th International Workshop on Computer Science and Engineering (WCSE 2017), pp. 214-218. (with best oral presentation award)
-- Kittiphop Phalakarn, Kittiphon Phalakarn, and V. Suppakitpaisarn. "Parallelized Side-Channel Attack Resisted Scalar Multiplication Using q-Based Addition-Subtraction k-chains," Proc. of the 4th International Symposium on Computing and Networking (CANDAR 2016), pp. 140-146.
+- Kittiphop Phalakarn, Kittiphon Phalakarn, and V. Suppakitpaisarn. "[Parallelized Side-Channel Attack Resisted Scalar Multiplication Using q-Based Addition-Subtraction k-chains](https://ieeexplore.ieee.org/abstract/document/7818605)," Proc. of the 4th International Symposium on Computing and Networking (CANDAR 2016), pp. 140-146.
 
 #### Books
 
