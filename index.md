@@ -1,13 +1,12 @@
-**Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is a Ph.D. student in Electrical and Computer Engineering (ECE) at the University of Waterloo under the supervision of [Prof. Anwar Hasan](https://uwaterloo.ca/electrical-computer-engineering/profile/ahasan).
-
+**Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is a researcher at [ERATO Metamathematics for Systems Design (MMSD) Project](https://group-mmm.org/eratommsd), National Institute of Informatics, Tokyo, Japan, led by [Prof. Ichiro Hasuo](https://group-mmm.org/~ichiro).
 
 My CV is available [here](https://docs.google.com/viewer?url=https://github.com/kittiphonp/kittiphonp.github.io/raw/master/Kittiphon%20Phalakarn_CV.pdf).
+
 * * *
 
 ### Contact
 
-- Office: E7 5414, University of Waterloo
-- E-mail: kphalakarn [at] uwaterloo [dot] ca
+- E-mail: kphalakarn [at] nii [dot] ac [dot] jp
 - E-mail: kittiphon [dot] phalakarn [at] gmail [dot] com
 
 * * *
@@ -22,18 +21,22 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 
 ### Education
 
-- Ph.D. Candidate, Electrical and Computer Engineering, University of Waterloo (2019-current) under the supervision of [Prof. Anwar Hasan](https://uwaterloo.ca/electrical-computer-engineering/profile/ahasan)
-- M.Eng., Computer Engineering, Chulalongkorn University (2017-2019) under the supervision of [Assoc. Prof. Athasit Surarerks](https://www.cp.eng.chula.ac.th/~athasit/)
+- Ph.D., Electrical and Computer Engineering, University of Waterloo (2019-2023, [thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/19649/Phalakarn_Kittiphon.pdf)) under the supervision of [Prof. Anwar Hasan](https://uwaterloo.ca/electrical-computer-engineering/profile/ahasan)
+- M.Eng., Computer Engineering, Chulalongkorn University (2017-2019) under the supervision of [Assoc. Prof. Athasit Surarerks](https://www.cp.eng.chula.ac.th/~athasit)
 - B.Eng., Computer Engineering, Chulalongkorn University (2013-2017)
 
 * * *
 
-### Experience
+### Experiences
+
+#### Work
+
+- Researcher at [ERATO Metamathematics for Systems Design (MMSD) Project](https://group-mmm.org/eratommsd), National Institute of Informatics (2023-current)
 
 #### Internship
 
-- Six-month internship at [ERATO Metamathematics for Systems Design Project](https://group-mmm.org/eratommsd/), National Institute of Informatics (Mar-Aug 2019)
-- Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp/), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (Jun-Jul 2016)
+- Six-month internship at [ERATO Metamathematics for Systems Design (MMSD) Project](https://group-mmm.org/eratommsd), National Institute of Informatics (Mar-Aug 2019)
+- Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (Jun-Jul 2016)
 
 #### Teaching
 
@@ -75,4 +78,4 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 
 ### Misc
 
-- I am interested in solving and constructing logic puzzles. My puzzles can be found [here](https://www.instagram.com/puzzles.corner/).
+- I am interested in solving and constructing logic puzzles. My puzzles can be found [here](https://www.instagram.com/puzzles.corner).
