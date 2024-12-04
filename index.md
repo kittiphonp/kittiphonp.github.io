@@ -13,9 +13,9 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 
 ### Interests
 
-- **Efficient algorithms in various settings:** graph algorithms, approximation algorithms
-- **Cryptography:** post-quantum cryptography, elliptic-curve cryptography
-- **Formal verification:** theoretical and practical verification algorithms
+- **Probabilistic model checking:** quantitative properties of Markov models and games
+- **Lattice theory and fixed point computation:** value iteration, fixed point uniqueness
+- **Algorithm design and analysis:** graph-based algorithms
 
 * * *
 
@@ -55,6 +55,7 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 
 #### Articles
 
+- K. Phalakarn, S. Pruekprasert, and I. Hasuo. "[Winning Strategy Templates for Stochastic Parity Games Towards Permissive and Resilient Control](https://link.springer.com/content/pdf/10.1007/978-3-031-77019-7_12.pdf)," Proc. of the 21st International Colloquium on Theoretical Aspects of Computing (ICTAC 2024), pp. 197--214. (with best paper award)
 - K. Phalakarn, V. Suppakitpaisarn, F. Rodriguez-hendriguez, and M. A. Hasan. "[Vectorized and Parallel Computation of Large Smooth-Degree Isogenies using Precedence-Constrained Scheduling](https://tches.iacr.org/index.php/TCHES/article/view/10963/10270)," IACR Trans. on Cryptographic Hardware and Embedded Systems (TCHES), vol. 2023, issue 3, pp. 246-269.
 - K. Phalakarn, V. Suppakitpaisarn, and M. A. Hasan. "[Speeding-Up Parallel Computation of Large Smooth-Degree Isogeny Using Precedence-Constrained Scheduling](https://link.springer.com/content/pdf/10.1007/978-3-031-22301-3_16.pdf)," Proc. of the 27th Australasian Conference on Information Security and Privacy (ACISP 2022), pp. 309-331.
 - K. Phalakarn, V. Suppakitpaisarn, and M. A. Hasan. "[Single-round Lattice-based Multisignatures](https://ieeexplore.ieee.org/document/9644197)," Proc. of the 8th International Workshop on Information and Communication Security (WICS 2021), pp. 365-371.
