@@ -70,7 +70,7 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 
 - Kittiphon Phalakarn, Kittiphop Phalakarn, S. Prasitjutrakul, and S. Sinthupinyo. "[Python 101](https://www.cp.eng.chula.ac.th/books/python101)," Textbook for 2110101 Computer Programming course (in Thai), 2017.
 
-#### Project
+#### Projects
 
 - [CO 687 - Applied Cryptography term project](https://docs.google.com/viewer?url=https://github.com/kittiphonp/kittiphonp.github.io/raw/master/CO%20687_Project_Kittiphon%20Phalakarn.pdf)
 - [ECE 720 - Cryptographic Computations term project](https://docs.google.com/viewer?url=https://github.com/kittiphonp/kittiphonp.github.io/raw/master/ECE%20720_Project_Kittiphon%20Phalakarn.pdf)
