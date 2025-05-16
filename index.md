@@ -31,12 +31,12 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 
 #### Work
 
-- Researcher at [Research Center for Mathematical Trust in Software and Systems](https://group-mmm.org/eratommsd), National Institute of Informatics (2023-current)
+- Researcher at [Research Center for Mathematical Trust in Software and Systems](https://group-mmm.org/eratommsd), National Institute of Informatics (09.2023-current)
 
 #### Internship
 
-- Six-month internship at [ERATO Metamathematics for Systems Design (MMSD) Project](https://group-mmm.org/eratommsd), National Institute of Informatics (Mar-Aug 2019)
-- Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (Jun-Jul 2016)
+- Six-month internship at [ERATO Metamathematics for Systems Design (MMSD) Project](https://group-mmm.org/eratommsd), National Institute of Informatics (03.2019-08.2019)
+- Two-month internship at [Imai Laboratory](http://www-imai.is.s.u-tokyo.ac.jp), Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo (06.2016-07.2016)
 
 #### Teaching
 
@@ -68,7 +68,7 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 
 #### Books
 
-- Kittiphon Phalakarn, Kittiphop Phalakarn, S. Prasitjutrakul, and S. Sinthupinyo. "[Python 101](https://www.cp.eng.chula.ac.th/books/python101)," Textbook for 2110101 Computer Programming course (in Thai), Aug 2017.
+- Kittiphon Phalakarn, Kittiphop Phalakarn, S. Prasitjutrakul, and S. Sinthupinyo. "[Python 101](https://www.cp.eng.chula.ac.th/books/python101)," Textbook for 2110101 Computer Programming course (in Thai), 2017.
 
 #### Project
 
