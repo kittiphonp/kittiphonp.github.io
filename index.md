@@ -1,4 +1,4 @@
-**Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is a researcher at [ERATO Metamathematics for Systems Design (MMSD) Project](https://group-mmm.org/eratommsd), National Institute of Informatics, Tokyo, Japan, led by [Prof. Ichiro Hasuo](https://group-mmm.org/~ichiro).
+**Kittiphon Phalakarn** (กิตติภณ พละการ,　キッティポン　パラカーン) is a researcher at [Research Center for Mathematical Trust in Software and Systems](https://group-mmm.org/eratommsd), National Institute of Informatics, Tokyo, Japan, led by [Prof. Ichiro Hasuo](https://group-mmm.org/~ichiro).
 
 My CV is available [here](https://docs.google.com/viewer?url=https://github.com/kittiphonp/kittiphonp.github.io/raw/master/Kittiphon%20Phalakarn_CV.pdf).
 
@@ -31,7 +31,7 @@ My CV is available [here](https://docs.google.com/viewer?url=https://github.com/
 
 #### Work
 
-- Researcher at [ERATO Metamathematics for Systems Design (MMSD) Project](https://group-mmm.org/eratommsd), National Institute of Informatics (2023-current)
+- Researcher at [Research Center for Mathematical Trust in Software and Systems](https://group-mmm.org/eratommsd), National Institute of Informatics (2023-current)
 
 #### Internship
 
