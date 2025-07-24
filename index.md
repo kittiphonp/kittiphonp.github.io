@@ -56,6 +56,8 @@ My CV is available <a href="https://docs.google.com/viewer?url=https://github.co
 
 #### Articles
 
+- K. Phalakarn, Y.C. Tsai, and I. Hasuo. "Widest Path Games and Maximality Inheritance in Bounded Value Iteration for Stochastic Games," Proc. of the 23nd International Symposium on Automated Technology for Verification and Analysis (ATVA 2025). (to appear)
+- Y.C. Tsai, K. Phalakarn, S. Akshay, and I. Hasuo. "Chance and Mass Interpretations of Probabilities in Markov Decision Processes," Proc. of the 36th International Conference on Concurrency Theory (CONCUR 2025). (to appear)
 - K. Phalakarn, S. Pruekprasert, and I. Hasuo. "[Winning Strategy Templates for Stochastic Parity Games Towards Permissive and Resilient Control](https://link.springer.com/content/pdf/10.1007/978-3-031-77019-7_12.pdf)," Proc. of the 21st International Colloquium on Theoretical Aspects of Computing (ICTAC 2024), pp. 197--214. (with Best Paper Award)
 - K. Phalakarn, V. Suppakitpaisarn, F. Rodriguez-hendriguez, and M. A. Hasan. "[Vectorized and Parallel Computation of Large Smooth-Degree Isogenies using Precedence-Constrained Scheduling](https://tches.iacr.org/index.php/TCHES/article/view/10963/10270)," IACR Trans. on Cryptographic Hardware and Embedded Systems (TCHES), vol. 2023, issue 3, pp. 246--269.
 - K. Phalakarn, V. Suppakitpaisarn, and M. A. Hasan. "[Speeding-Up Parallel Computation of Large Smooth-Degree Isogeny Using Precedence-Constrained Scheduling](https://link.springer.com/content/pdf/10.1007/978-3-031-22301-3_16.pdf)," Proc. of the 27th Australasian Conference on Information Security and Privacy (ACISP 2022), pp. 309--331.
